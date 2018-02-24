@@ -1,1 +1,3 @@
-# fresh-setup
+# Fresh setup
+
+## [Windows](./windows.md)
