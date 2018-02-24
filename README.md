@@ -1,3 +1,3 @@
 # Fresh setup
 
-## [Windows](./windows.md)
+- [Windows](./windows.md)
