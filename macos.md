@@ -5,4 +5,6 @@
 ## Bash
 - [aws-cli](https://docs.aws.amazon.com/cli/latest/userguide/installing.html)
 - [nvm](https://github.com/creationix/nvm)
-- [PS1 customization](https://www.howtogeek.com/307701/how-to-customize-and-colorize-your-bash-prompt/): `PS1="\[\033[01;32m\]\w:\[\033[00m\]$ "`
+- [PS1 customization](https://www.howtogeek.com/307701/how-to-customize-and-colorize-your-bash-prompt/):
+1. `PS1="\[\033[01;32m\]\w:\[\033[00m\]$ "`
+1. `PS1="\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$"`
