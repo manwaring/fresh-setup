@@ -12,3 +12,6 @@
 ## Programs
 1. [Spectacle (free)](https://www.spectacleapp.com/)
 1. [HazeOver ($7)](https://hazeover.com/)
+
+## Settings
+1. [NPM loglevel=silent](https://docs.npmjs.com/files/npmrc)
