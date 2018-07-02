@@ -8,3 +8,6 @@
 ## Bash
 - [aws-cli](https://docs.aws.amazon.com/cli/latest/userguide/installing.html)
 - [nvm](https://github.com/creationix/nvm)
+
+## Settings
+1. [NPM loglevel=silent](https://docs.npmjs.com/files/npmrc)
