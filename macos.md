@@ -10,6 +10,7 @@
 
 ## Programs
 1. [Spectacle (free)](https://www.spectacleapp.com/)
+1. [Day-0 calendar (free)](https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock)
 1. [HazeOver ($7)](https://hazeover.com/)
 
 ## Settings
