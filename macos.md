@@ -15,3 +15,7 @@
 
 ## Settings
 1. [NPM loglevel=silent](https://docs.npmjs.com/files/npmrc)
+
+## Slack dark theme
+1. [Original instructions](https://www.howtogeek.com/368976/how-to-install-the-unofficial-dark-mode-for-slack/)
+1. [Repo](https://github.com/caiceA/slack-black-theme)
