@@ -12,3 +12,14 @@ else
     PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
 fi
 ```
+
+gacp() {
+    git add .
+    git commit -m "$1"
+    git push
+}
+
+gcp() {
+    git commit -a -m "$1"
+    git push
+}
