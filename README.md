@@ -1,4 +1,5 @@
 # Fresh setup
 
-- [Windows](./windows.md)
-- [Mac](./macos.md)
+- [Linux](./linux)
+- [Mac](./macos)
+- [Windows](./windows)
