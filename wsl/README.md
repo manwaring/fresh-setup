@@ -20,7 +20,16 @@ https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:
 
 `%LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState`
 
+### Update starting directory in Windows Terminal
+
+https://docs.microsoft.com/en-us/windows/terminal/customize-settings/profile-settings
+
 ### Update Windows Terminal settings
+
+```json
+  // Press Ctrl+T to open a new tab
+  { "command": "newTab", "keys": "ctrl+t"},
+```
 
 ```json
 {
@@ -28,6 +37,7 @@ https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:
   "hidden": false,
   "name": "Ubuntu-20.04",
   "source": "Windows.Terminal.Wsl",
-  "icon": "ms-appdata:///roaming/ubuntu.webp"
+  "icon": "ms-appdata:///roaming/ubuntu.webp",
+  "startingDirectory": "//wsl$/Ubuntu-20.04/home/phillip"
 },
 ```
