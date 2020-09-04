@@ -1,5 +1,5 @@
 # Fresh setup
 
 - [Linux](./linux)
-- [Mac](./macos)
+- [Mac](./mac)
 - [Windows](./windows)
