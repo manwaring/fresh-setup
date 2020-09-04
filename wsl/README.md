@@ -12,6 +12,14 @@ https://docs.microsoft.com/en-us/windows/wsl/wsl2-kernel
 
 https://www.microsoft.com/en-us/p/ubuntu-2004-lts/9n6svws3rx71?activetab=pivot:overviewtab
 
+### Install Windows Terminal
+
+https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab
+
+### Add icon to Windows Terminal roaming
+
+`%LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState`
+
 ### Update Windows Terminal settings
 
 ```json
