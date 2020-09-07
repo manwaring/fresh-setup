@@ -27,8 +27,16 @@ https://docs.microsoft.com/en-us/windows/terminal/customize-settings/profile-set
 ### Update Windows Terminal settings
 
 ```json
-  // Press Ctrl+T to open a new tab
-  { "command": "newTab", "keys": "ctrl+t"},
+  // If enabled, selections are automatically copied to your clipboard.
+  "copyOnSelect": true,
+  
+  // If enabled, alert warns when pasting multiple lines
+  "multiLinePasteWarning": false,
+
+  "keybindings": [
+    // Press Ctrl+T to open a new tab
+    { "command": "newTab", "keys": "ctrl+t"},
+  ]
 ```
 
 ```json
