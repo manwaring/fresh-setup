@@ -20,11 +20,9 @@ https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:
 
 `%LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState`
 
-### Update starting directory in Windows Terminal
-
-https://docs.microsoft.com/en-us/windows/terminal/customize-settings/profile-settings
-
 ### Update Windows Terminal settings
+
+https://docs.microsoft.com/en-us/windows/terminal/
 
 ```json
   // If enabled, selections are automatically copied to your clipboard.
